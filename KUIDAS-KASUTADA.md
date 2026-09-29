@@ -135,7 +135,7 @@ Skill on juhend ühele korduvale tööle. Sinu skillid on kaustas `skillid/` ja 
 
 ---
 
-## Aju küsib vastu
+## Küsi ise ajult
 
 **See on nädala 1 kõige tähtsam lause.** Kasuta seda siis, kui ajus on juba midagi sees.
 

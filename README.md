@@ -10,7 +10,7 @@ See kaust on praegu peaaegu tühi. **Nii peabki olema** — see täitub siis, ku
 
 1. **Ütle oma AI-le:** *„Loe mu aju läbi ja ütle, mis siin on ja mis on veel tühi."*
 2. **Ava [`TEEMAD.md`](TEEMAD.md)** — üheksa teemat, mida su aju sinu kohta teada tahab. Alusta kahest esimesest.
-3. **Ava [`KUIDAS-KASUTADA.md`](KUIDAS-KASUTADA.md)** — valmis laused, mida sa võid otse kopeerida. Sealhulgas see, mis paneb su aju sinult vastu küsima.
+3. **Ava [`KUIDAS-KASUTADA.md`](KUIDAS-KASUTADA.md)** — valmis laused, mida sa võid otse kopeerida. Sealhulgas küsimused, mida sa ise ajult küsid, kui sinna on juba midagi kogunenud.
 
 **Üks harjumus, mis hoiab kõik koos:**
 
