@@ -24,4 +24,6 @@ Kuue nädala pärast ei mäleta sa, miks sa mingi otsuse tegid. See fail mäleta
 >
 > *„Pane otsuste logisse: otsustasin [mis], sest [miks]."*
 >
-> Claude kirjutab kuupäeva ise juurde.
+> AI kirjutab kuupäeva ise juurde.
+>
+> **Kui otsus muutub**, ei parandata vana kirjet. Tuleb uus kirje: mis oli enne, mis nüüd, miks muutus. Kehtiv seis kirjutatakse üle õiges aju failis — logi hoiab ajalugu, fail hoiab praegust. Vt `AGENTS.md`, „Kehtiv seis ja ajalugu hoia lahus".
