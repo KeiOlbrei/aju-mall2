@@ -10,9 +10,9 @@ Siin on teemad. Iga teema juures on kirjas, mida sa võiksid AI-le anda: linke, 
 
 ## 1. Mis on sinu eesmärgid ja kuidas sinna jõuda
 
-→ `05-otsused/minu-numbrid.md`
+→ `HETKESEIS.md` (eesmärk) ja `05-otsused/minu-numbrid.md` (numbrid)
 
-Su numbrid praegu ja see, kus nad peaksid aasta pärast olema. Ja üks number, mida enamik ei ole kunagi välja arvutanud: **mitut klienti sa üldse jõuad teenindada?**
+Kus sa tahad olla aasta pärast ja mis on selle kuu eesmärk. Ja su numbrid praegu. Ja üks number, mida enamik ei ole kunagi välja arvutanud: **mitut klienti sa üldse jõuad teenindada?**
 
 **Mida tuua:** käive, kliendid, töötunnid · mida keskmine klient sulle maksab · mitu klienti sa praegu korraga jõuad · nii täpselt, kui sa tead
 
@@ -82,7 +82,7 @@ Mitte see, mida sa teed, vaid see, mis on kliendi jaoks pärast teisiti. Ja tõe
 
 ## 7. Kust kliendid tulevad — ja kus praegu kinni jääb
 
-→ `04-turundus/kanalid-ja-kitsaskoht.md`
+→ `04-turundus/kanalid.md` (kanalid) ja `HETKESEIS.md` (kitsaskoht)
 
 Kaks asja, mis koos ütlevad su ajule, mida sulle üldse soovitada.
 

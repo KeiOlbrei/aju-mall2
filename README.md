@@ -30,6 +30,12 @@ Brauseris alustab iga uus vestlus GitHubi viimasest versioonist — seal ei pea 
 | [`AGENTS.md`](AGENTS.md) | **Juhend.** Kuidas minuga töötada. Iga AI loeb selle esimesena. |
 | [`CLAUDE.md`](CLAUDE.md) | Viit `AGENTS.md`-le, Claude Code'i jaoks. |
 
+**Üks fail ütleb, mis on PRAEGU tõsi:**
+
+| Fail | Mis see on |
+|---|---|
+| [`HETKESEIS.md`](HETKESEIS.md) | Eesmärk, praegune fookus, kus kinni jääb, mis on otsustatud ja mis katsetus. **AI loeb selle kohe pärast `AGENTS.md`-d.** **(1, 7)** |
+
 **Kõik ülejäänu ütleb, MIS on tõsi.** Number sulgudes on teema number [`TEEMAD.md`](TEEMAD.md)-st:
 
 | Fail | Mis sinna käib |
@@ -44,9 +50,9 @@ Brauseris alustab iga uus vestlus GitHubi viimasest versioonist — seal ei pea 
 | `03-protsessid/kliendi-teekond.md` | Mis juhtub, kui klient ütleb jah **(5)** |
 | `03-protsessid/mis-kordub.md` | Mis on iga kliendiga täpselt ühesugune **(5)** |
 | `03-protsessid/pohjad.md` | Dokumendid, mida sa iga kord uuesti teed — leping, pakkumine, kokkuvõte **(5)** |
-| `04-turundus/kanalid-ja-kitsaskoht.md` | Kust kliendid tulevad ja kus praegu kinni jääb **(7)** |
+| `04-turundus/kanalid.md` | Kust kliendid tulevad **(7)** |
 | `04-turundus/lood-ja-laused.md` | Laused ja lood, mis päriselt töötavad |
-| `05-otsused/minu-numbrid.md` | Kus ma olen ja kuhu tahan **(1)** |
+| `05-otsused/minu-numbrid.md` | Numbrid: käive, kliendid, mitut klienti ma jõuan **(1)** |
 | `05-otsused/mis-on-proovitud.md` | Mis ei töötanud ja mille juurde ei ole vaja tagasi tulla **(8)** |
 | `05-otsused/otsuste-logi.md` | Mis otsustati, millal, miks |
 

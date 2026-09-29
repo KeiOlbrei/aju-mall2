@@ -1,14 +1,14 @@
-# Eesmärgid ja numbrid
+# Minu numbrid
 
 *Teema 1 — vt [`TEEMAD.md`](../TEEMAD.md)*
 
-Su numbrid praegu ja see, kus nad peaksid aasta pärast olema.
+Su numbrid praegu. **Eesmärk ise — kuhu sa tahad jõuda — elab failis [`HETKESEIS.md`](../HETKESEIS.md).** Siin on numbrid, mille vastu seda mõõta.
 
-**Siia käib:** käive · mitu klienti · mitu tundi sa nädalas töötad · mida keskmine klient sulle maksab · **mitut klienti sa üldse korraga jõuad teenindada** · kus sa tahad olla aasta pärast
+**Siia käib:** käive · mitu klienti · mitu tundi sa nädalas töötad · mida keskmine klient sulle maksab · **mitut klienti sa üldse korraga jõuad teenindada**
 
 ---
 
-> **TÜHI.** Ütle Claude'ile: *„küsi minult need numbrid ükshaaval ja kirjuta need siia faili."* Kui sul on arved või raamatupidamise väljavõte, näita neid talle — siis ta arvutab osa ise välja.
+> **TÜHI.** Ütle oma AI-le: *„küsi minult need numbrid ükshaaval ja kirjuta need siia faili."* Kui sul on arved või raamatupidamise väljavõte, näita neid talle — siis ta arvutab osa ise välja.
 >
 > **On väga okei, kui sa kõigele praegu vastata ei oska** — ütle „ei tea" ja mine edasi. Su aju küsib hiljem uuesti, siis kui tal seda päriselt vaja on.
 

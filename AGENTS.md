@@ -2,6 +2,8 @@
 
 **Loe see esimesena, ükskõik mis tööriist sa oled.** See fail ütleb, kuidas minuga töötada. Kõik ülejäänud failid ütlevad, mis on tõsi.
 
+**Lugemise järjekord:** kõigepealt see fail, siis [`HETKESEIS.md`](HETKESEIS.md) — mis on praegu tõsi — ja siis ainult need failid, mida see töö vajab.
+
 > Claude Code loeb `CLAUDE.md`, mis osutab siia. Teised tööriistad (Codex, Manus, ChatGPT) otsivad `AGENTS.md`. Nii teab iga AI, kuidas siin käituda — ja su aju ei ole ühegi tööriista külge lukus.
 
 ---
@@ -40,8 +42,8 @@ Need on soovitused. **Kui allpool „Minu vastus" on tühi, näita mulle neid es
 | `01-mina/` | Kes ma olen, minu hääl, minu tulevane mina |
 | `02-pakkumine/` | Mida ma müün, kellele, mis hinnaga, mis tulemusega |
 | `03-protsessid/` | Kuidas ma töötan, mis kordub iga kliendiga |
-| `04-turundus/` | Kust kliendid tulevad, mis on kitsaskoht, mis laused töötavad |
-| `05-otsused/` | Eesmärgid ja numbrid, otsuste logi, mis on juba proovitud |
+| `04-turundus/` | Kust kliendid tulevad, mis laused töötavad |
+| `05-otsused/` | Numbrid, otsuste logi, mis on juba proovitud |
 | `skillid/` | Minu skillid — tööd, mida sa teed iga kord samamoodi. Vt „Skillid" allpool. |
 | `riskihindamine/` | Tekib siis, kui ma esimest korda riskihindamise teen. Mis tööriistu ma kasutan ja kas nad tohivad kliendiandmeid näha. |
 
@@ -137,7 +139,7 @@ Muidu juhtub see: ma muudan ühte hinda ühes failis ja unustan teise. Nüüd on
 
 ## Kehtiv seis ja ajalugu hoia lahus
 
-**Aju failid ütlevad, mis on praegu tõsi.** Kui otsus muutub, kirjuta kehtiv lause üle — ära lisa uut tõde vana kõrvale. Muidu on failis kaks hinda ja ma ei tea, kumb kehtib.
+**Aju failid ütlevad, mis on praegu tõsi** — ja kõige lühemalt [`HETKESEIS.md`](HETKESEIS.md). Kui otsus muutub, kirjuta kehtiv lause üle — ära lisa uut tõde vana kõrvale. Muidu on failis kaks hinda ja ma ei tea, kumb kehtib.
 
 **Vana ei kao, see läheb logisse.** Mis oli enne, mis nüüd ja miks muutus — üks kirje kuupäevaga faili [`05-otsused/otsuste-logi.md`](05-otsused/otsuste-logi.md). Nii jääb ajalugu alles, aga ei sega.
 
