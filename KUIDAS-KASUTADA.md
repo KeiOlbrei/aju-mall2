@@ -13,6 +13,8 @@ Valmis laused. Kopeeri, kleebi, muuda oma sõnadega ümber. Sa ei pea neid pähe
 **Lõpus:**
 > *Salvesta kõik muudatused GitHubi põhiversiooni.*
 
+Või lühemalt: *„push main'i"* või *„salvesta ajju"*. Kõik kolm tähendavad sama.
+
 **Kui sa ei ole kindel, kas kõik on salvestatud:**
 > *Kas kõik tänased muudatused on põhiversioonis (main)?*
 
