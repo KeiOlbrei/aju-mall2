@@ -1,6 +1,6 @@
 # Kliendi teekond
 
-*Teema 4 — vt [`TEEMAD.md`](../TEEMAD.md)*
+*Teema 5 — vt [`TEEMAD.md`](../TEEMAD.md)*
 
 Mis juhtub, kui klient ütleb jah — samm-sammult, kuni töö on tehtud ja arve makstud.
 

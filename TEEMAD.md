@@ -2,13 +2,23 @@
 
 Sa ei pea seda kõike korraga täitma. **Sa ei peagi seda üksinda täitma** — su aju küsib jooksvalt ise juurde, kui tal midagi puudu jääb.
 
-Siin on teemad. Iga teema juures on kirjas, mida sa võiksid AI-le anda: linke, faile, kuvatõmmiseid — või lihtsalt räägi ja lase Claude'il kirjutada.
+Siin on teemad. Iga teema juures on kirjas, mida sa võiksid AI-le anda: linke, faile, kuvatõmmiseid — või lihtsalt räägi ja lase AI-l kirjutada.
 
 **Alusta kahest esimesest.** Edasi otsusta ise, sinu tempo — kas kõik korraga ühel pärastlõunal või iga päev natuke. Tegelikult täitub ülejäänu nädala jooksul niikuinii, töö käigus.
 
 ---
 
-## 1. Sinu stiil ja hääl
+## 1. Mis on sinu eesmärgid ja kuidas sinna jõuda
+
+→ `05-otsused/minu-numbrid.md`
+
+Su numbrid praegu ja see, kus nad peaksid aasta pärast olema. Ja üks number, mida enamik ei ole kunagi välja arvutanud: **mitut klienti sa üldse jõuad teenindada?**
+
+**Mida tuua:** käive, kliendid, töötunnid · mida keskmine klient sulle maksab · mitu klienti sa praegu korraga jõuad · nii täpselt, kui sa tead
+
+> On väga okei, kui sa kõigele praegu vastata ei oska.
+
+## 2. Sinu stiil ja hääl
 
 → `01-mina/stiil-ja-toon.md`
 
@@ -18,7 +28,7 @@ See on läbiv stiil, mida sa kasutad klientidega suhtlemisel, müügis ja turund
 
 > Kolm päris teksti õpetavad su häält rohkem kui pool tundi selle kirjeldamist.
 
-## 2. Sinu ideaalne klient
+## 3. Sinu ideaalne klient
 
 → `02-pakkumine/ideaalklient.md`
 
@@ -28,7 +38,7 @@ Kirjelda kliente, kes toovad sulle kõige rohkem rõõmu ja ka kõige rohkem rah
 
 > Küsimusele „kellega sa ei taha töötada" — et me õpiks neid märkama. Ideaalkliendi infot on vaja turunduse ja müügi suunamiseks.
 
-## 3. Mida sa müüd
+## 4. Mida sa müüd
 
 → `02-pakkumine/teenused.md` ja `02-pakkumine/hinnastamine.md`
 
@@ -36,7 +46,7 @@ Su teenused, paketid, hinnad. Ka need hinnad, mis kodulehel ei ole.
 
 **Mida tuua:** hinnakiri · pakkumiste failid · viimased arved · kodulehe teenuste leht
 
-## 4. Kuidas sa töötad
+## 5. Kuidas sa töötad
 
 → `03-protsessid/kliendi-teekond.md`, `03-protsessid/mis-kordub.md` ja `03-protsessid/pohjad.md`
 
@@ -59,16 +69,6 @@ Tee neist lihtsalt nimekiri ja märgi iga koha juurde kaks asja: **mis seal vä�
 **Mida tuua:** lihtsalt räägi
 
 > Enamik neist kohtadest ei jõua ajju kunagi, ja esialgu on see täiesti okei. Aga ühtegi neist ei saa automatiseerida enne, kui sa oled nad kirja pannud. Nimekiri ise ongi pool tööd: tavaliselt selgub, et üks või kaks kohta hoiavad kõige väärtuslikumat infot ja just neid pole keegi kunagi kuhugi kokku kogunud.
-
-## 5. Mis on sinu eesmärgid ja kuidas sinna jõuda
-
-→ `05-otsused/minu-numbrid.md`
-
-Su numbrid praegu ja see, kus nad peaksid aasta pärast olema. Ja üks number, mida enamik ei ole kunagi välja arvutanud: **mitut klienti sa üldse jõuad teenindada?**
-
-**Mida tuua:** käive, kliendid, töötunnid · mida keskmine klient sulle maksab · mitu klienti sa praegu korraga jõuad · nii täpselt, kui sa tead
-
-> On väga okei, kui sa kõigele praegu vastata ei oska.
 
 ## 6. Millist väärtust sa oma kliendile lood? Mis on selle tõestuseks?
 

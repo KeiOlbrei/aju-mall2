@@ -1,6 +1,6 @@
 # Hääl ja toon
 
-*Teema 1 — vt [`TEEMAD.md`](../TEEMAD.md)*
+*Teema 2 — vt [`TEEMAD.md`](../TEEMAD.md)*
 
 Kuidas ma kirjutan ja räägin. Kui see fail on täidetud, kõlab kõik, mida su AI sinu eest kirjutab, sinu moodi — mitte AI moodi.
 

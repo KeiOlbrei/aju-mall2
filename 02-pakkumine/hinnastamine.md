@@ -1,6 +1,6 @@
 # Hinnastamine
 
-*Teema 3 — vt [`TEEMAD.md`](../TEEMAD.md)*
+*Teema 4 — vt [`TEEMAD.md`](../TEEMAD.md)*
 
 Mis hinnaga sa müüd. **Ka need hinnad, mis kodulehel ei ole.**
 

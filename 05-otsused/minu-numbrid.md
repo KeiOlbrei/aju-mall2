@@ -1,6 +1,6 @@
 # Eesmärgid ja numbrid
 
-*Teema 5 — vt [`TEEMAD.md`](../TEEMAD.md)*
+*Teema 1 — vt [`TEEMAD.md`](../TEEMAD.md)*
 
 Su numbrid praegu ja see, kus nad peaksid aasta pärast olema.
 

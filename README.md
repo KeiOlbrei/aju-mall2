@@ -35,18 +35,18 @@ Brauseris alustab iga uus vestlus GitHubi viimasest versioonist — seal ei pea 
 | Fail | Mis sinna käib |
 |---|---|
 | `01-mina/kes-ma-olen.md` | Nimi, ettevõte, mida ma müün ühe lausega |
-| `01-mina/stiil-ja-toon.md` | Kuidas ma kirjutan ja räägin **(1)** |
+| `01-mina/stiil-ja-toon.md` | Kuidas ma kirjutan ja räägin **(2)** |
 | `01-mina/tulevane-mina.md` | Kes ma olen, kui see kõik töötab **(9 — vabatahtlik)** |
-| `02-pakkumine/ideaalklient.md` | Kellega ma tahan töötada ja kellega mitte **(2)** |
-| `02-pakkumine/teenused.md` | Mida ma müün **(3)** |
-| `02-pakkumine/hinnastamine.md` | Mis hinnaga **(3)** |
+| `02-pakkumine/ideaalklient.md` | Kellega ma tahan töötada ja kellega mitte **(3)** |
+| `02-pakkumine/teenused.md` | Mida ma müün **(4)** |
+| `02-pakkumine/hinnastamine.md` | Mis hinnaga **(4)** |
 | `02-pakkumine/kliendi-tulemus.md` | Mis on kliendi jaoks pärast teisiti, ja mis seda tõestab **(6)** |
-| `03-protsessid/kliendi-teekond.md` | Mis juhtub, kui klient ütleb jah **(4)** |
-| `03-protsessid/mis-kordub.md` | Mis on iga kliendiga täpselt ühesugune **(4)** |
-| `03-protsessid/pohjad.md` | Dokumendid, mida sa iga kord uuesti teed — leping, pakkumine, kokkuvõte **(4)** |
+| `03-protsessid/kliendi-teekond.md` | Mis juhtub, kui klient ütleb jah **(5)** |
+| `03-protsessid/mis-kordub.md` | Mis on iga kliendiga täpselt ühesugune **(5)** |
+| `03-protsessid/pohjad.md` | Dokumendid, mida sa iga kord uuesti teed — leping, pakkumine, kokkuvõte **(5)** |
 | `04-turundus/kanalid-ja-kitsaskoht.md` | Kust kliendid tulevad ja kus praegu kinni jääb **(7)** |
 | `04-turundus/lood-ja-laused.md` | Laused ja lood, mis päriselt töötavad |
-| `05-otsused/minu-numbrid.md` | Kus ma olen ja kuhu tahan **(5)** |
+| `05-otsused/minu-numbrid.md` | Kus ma olen ja kuhu tahan **(1)** |
 | `05-otsused/mis-on-proovitud.md` | Mis ei töötanud ja mille juurde ei ole vaja tagasi tulla **(8)** |
 | `05-otsused/otsuste-logi.md` | Mis otsustati, millal, miks |
 

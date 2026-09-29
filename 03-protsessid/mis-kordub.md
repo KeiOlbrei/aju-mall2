@@ -1,6 +1,6 @@
 # Mis kordub
 
-*Teema 4 — vt [`TEEMAD.md`](../TEEMAD.md)*
+*Teema 5 — vt [`TEEMAD.md`](../TEEMAD.md)*
 
 Mis on iga kliendiga täpselt ühesugune. Samad kirjad, samad küsimused, sama fail, mille sa iga kord uuesti täidad.
 

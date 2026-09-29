@@ -1,6 +1,6 @@
 # Ideaalklient
 
-*Teema 2 — vt [`TEEMAD.md`](../TEEMAD.md)*
+*Teema 3 — vt [`TEEMAD.md`](../TEEMAD.md)*
 
 Kliendid, kes toovad sulle kõige rohkem rõõmu ja ka kõige rohkem raha. Ja — sama tähtis — need, kellega sa enam töötada ei taha.
 

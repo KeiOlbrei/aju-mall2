@@ -1,6 +1,6 @@
 # Teenused
 
-*Teema 3 — vt [`TEEMAD.md`](../TEEMAD.md)*
+*Teema 4 — vt [`TEEMAD.md`](../TEEMAD.md)*
 
 Mida sa müüd. Iga teenus, iga pakett — ka need, mida kodulehel ei ole.
 
