@@ -157,7 +157,7 @@ Skill on juhend ühele korduvale tööle. Sinu skillid on kaustas `skillid/` ja 
 > *Loe mu aju läbi. Täna teen [...]. Mis sa arvad, mis on täna kõige tähtsam?*
 
 **Päeva lõpus:**
-> *Viska päev ajju: [mis juhtus, mis otsustati, mis on järgmine]. Kirjuta see õigesse faili ja salvesta GitHubi põhiversiooni.*
+> *Salvesta ajju oluline: [mis juhtus, mis otsustati, mis on järgmine]. Kirjuta see õigesse faili ja salvesta GitHubi põhiversiooni.*
 
 ---
 
