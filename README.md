@@ -17,7 +17,7 @@ See kaust on praegu peaaegu tühi. **Nii peabki olema** — see täitub siis, ku
 > **Lõpeta salvestamisega.**
 > Kui lõpetad: *„salvesta kõik muudatused GitHubi põhiversiooni."*
 
-Brauseris alustab iga uus vestlus GitHubi viimasest versioonist — seal ei pea midagi alla tõmbama. Aga AI teeb muudatused oma koopias ja jääb ootama. Kui sa ei ütle „salvesta", siis põhiversioonis neid ei ole, järgmine vestlus neid ei näe — ja veateadet sa ei näe.
+Brauseris alustab iga uus vestlus GitHubi viimasest versioonist — seal ei pea midagi alla tõmbama. Aga AI teeb muudatused oma koopias ja jääb ootama. Kui sa ei ütle „salvesta", jäävad need kõrvalharusse. Järgmine vestlus leiab need tihti üles ja küsib, aga mitte alati. Kindel on ainult põhiversioon.
 
 ---
 

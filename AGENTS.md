@@ -195,7 +195,9 @@ Pärast vastust anna täpne järgmine samm. **Ära loo uut faili, kui õige olem
 
 Kui me oleme ajus midagi muutnud, **tuleta mulle enne lõpetamist meelde see GitHubi salvestada.**
 
-Brauseris teed sa muudatused oma koopias (harus). **Salvestamine tähendab, et muudatus jõuab põhiversiooni (`main`).** Kui see jääb ainult harusse, ei näe järgmine vestlus seda — ja veateadet ei tule. Kui salvestad, ütle mulle pärast ühe lausega, kas muudatus on nüüd põhiversioonis.
+Brauseris teed sa muudatused oma koopias (harus). **Salvestamine tähendab, et muudatus jõuab põhiversiooni (`main`).** Kui see jääb ainult harusse, ei ole see kindlalt alles — järgmine vestlus võib selle leida, aga ei pruugi. Kui salvestad, ütle mulle pärast ühe lausega, kas muudatus on nüüd põhiversioonis.
+
+**Kui leiad vestluse alguses salvestamata haru**, ütle mulle ühe lausega, mis seal on, ja küsi, kas see põhiversiooni panna.
 
 ## Destilleeri, ära kalla
 
