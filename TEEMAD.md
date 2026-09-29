@@ -18,17 +18,7 @@ Su numbrid praegu ja see, kus nad peaksid aasta pärast olema. Ja üks number, m
 
 > On väga okei, kui sa kõigele praegu vastata ei oska.
 
-## 2. Sinu stiil ja hääl
-
-→ `01-mina/stiil-ja-toon.md`
-
-See on läbiv stiil, mida sa kasutad klientidega suhtlemisel, müügis ja turunduses. Kui su aju seda teab, kõlab kõik, mida ta sinu eest kirjutab, sinu moodi — mitte AI moodi.
-
-**Mida tuua:** oma kodulehe link · kuvatõmmised kujundatud materjalidest · brändi stiiliraamat või juhised, kui need on olemas · 2–3 asja, mille sa oled ise kirjutanud (postitus, kliendikiri, pakkumine) · LinkedIni profiil
-
-> Kolm päris teksti õpetavad su häält rohkem kui pool tundi selle kirjeldamist.
-
-## 3. Sinu ideaalne klient
+## 2. Sinu ideaalne klient
 
 → `02-pakkumine/ideaalklient.md`
 
@@ -37,6 +27,16 @@ Kirjelda kliente, kes toovad sulle kõige rohkem rõõmu ja ka kõige rohkem rah
 **Mida tuua:** kliendinimekiri või paar viimast projekti · kliendi koduleht, kus on aru saada millega ta tegeleb · tagasisidet ja tänukirju, **klientide enda sõnadega** · kirjavahetust, kus klient enne ostmist küsis või kahtles — **sealt tulevad tüüpilised vastuväited, millele su müügitekstid hiljem vastama peavad** · kust nad sinuni jõuavad.
 
 > Küsimusele „kellega sa ei taha töötada" — et me õpiks neid märkama. Ideaalkliendi infot on vaja turunduse ja müügi suunamiseks.
+
+## 3. Sinu stiil ja hääl
+
+→ `01-mina/stiil-ja-toon.md`
+
+See on läbiv stiil, mida sa kasutad klientidega suhtlemisel, müügis ja turunduses. Kui su aju seda teab, kõlab kõik, mida ta sinu eest kirjutab, sinu moodi — mitte AI moodi.
+
+**Mida tuua:** oma kodulehe link · kuvatõmmised kujundatud materjalidest · brändi stiiliraamat või juhised, kui need on olemas · 2–3 asja, mille sa oled ise kirjutanud (postitus, kliendikiri, pakkumine) · LinkedIni profiil
+
+> Kolm päris teksti õpetavad su häält rohkem kui pool tundi selle kirjeldamist.
 
 ## 4. Mida sa müüd
 

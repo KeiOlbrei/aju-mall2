@@ -35,9 +35,9 @@ Brauseris alustab iga uus vestlus GitHubi viimasest versioonist — seal ei pea 
 | Fail | Mis sinna käib |
 |---|---|
 | `01-mina/kes-ma-olen.md` | Nimi, ettevõte, mida ma müün ühe lausega |
-| `01-mina/stiil-ja-toon.md` | Kuidas ma kirjutan ja räägin **(2)** |
+| `01-mina/stiil-ja-toon.md` | Kuidas ma kirjutan ja räägin **(3)** |
 | `01-mina/tulevane-mina.md` | Kes ma olen, kui see kõik töötab **(9 — vabatahtlik)** |
-| `02-pakkumine/ideaalklient.md` | Kellega ma tahan töötada ja kellega mitte **(3)** |
+| `02-pakkumine/ideaalklient.md` | Kellega ma tahan töötada ja kellega mitte **(2)** |
 | `02-pakkumine/teenused.md` | Mida ma müün **(4)** |
 | `02-pakkumine/hinnastamine.md` | Mis hinnaga **(4)** |
 | `02-pakkumine/kliendi-tulemus.md` | Mis on kliendi jaoks pärast teisiti, ja mis seda tõestab **(6)** |
